@@ -250,7 +250,7 @@ article{
    padding-top: 10px;
 }
 article:hover{
-  transition: all 0.5s linear;
+  transition: all 0.3s linear;
   background-color: rgba(0, 0, 139, 0.24);
 }
 article iframe, article video{
